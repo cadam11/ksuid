@@ -12,7 +12,7 @@
   "commands": [
     {
       "name": "inspect-ksuid",
-      "title": "Inspect KSUID",
+      "title": "KSUID Inspect",
       "description": "Shows the payload detail for a KSUID",
       "mode": "view",
       "arguments": [
@@ -26,7 +26,7 @@
     },
     {
       "name": "generate-ksuid",
-      "title": "Generate KSUID",
+      "title": "KSUID Generate",
       "description": "Generates a new KSUID",
       "mode": "view",
       "icon": "ksuid.png"
